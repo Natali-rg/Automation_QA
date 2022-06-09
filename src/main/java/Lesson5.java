@@ -37,8 +37,15 @@ public class Lesson5 {
         Cats cats = new Cats(12, "blue", false, 'm',eyes);
 
 
+            ////////Dog////////
+    Dog dog=new Dog("Tobby", "black");
+    dog.setHeight(2.02f);
+    dog.print();
+    String name= dog.getName();
+        System.out.println(name);
 
-
+        Dog dog1=new Dog("Lulu",2,"wight",0.25f);
+        dog1.print();
 
 
 
