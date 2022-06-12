@@ -6,6 +6,8 @@ public class homeWork6 {
         Cat cat=new Cat(true,"eats", 0,"white");
         System.out.println(cat.getColor());
         System.out.println(cat.getEats());
+        Animal animal=new Animal();
+        System.out.println(animal);
 
 
     }
