@@ -1,4 +1,4 @@
-package HomeWork_10_String_Collection;
+package HomeWork_11_String_Collection;
 import java.util.*;
 
 public class HW_11 {
@@ -12,5 +12,4 @@ public class HW_11 {
             System.out.println(h);
         }
     }
-
 }

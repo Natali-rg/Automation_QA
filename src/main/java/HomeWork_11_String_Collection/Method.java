@@ -1,4 +1,4 @@
-package HomeWork_10_String_Collection;
+package HomeWork_11_String_Collection;
 
 import java.util.*;
 
@@ -26,11 +26,7 @@ public class Method {
                 }
                 /*for (String t : list2) {
                         System.out.println(t);}*/
-
                 return (ArrayList) list2;
         }
-
-
-
 }
 
