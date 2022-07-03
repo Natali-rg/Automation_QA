@@ -11,7 +11,6 @@ public class Method {
         }
 
         public ArrayList CreateList(String word) {
-
                 String[] word2 = word.split(" ");
                 List<String> list = new ArrayList<>();
                 for (String l : word2) {
